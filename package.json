@@ -54,6 +54,9 @@
   "path": false,
   "os": false
 },
+  "webpack":{
+    "fs":"empty"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
